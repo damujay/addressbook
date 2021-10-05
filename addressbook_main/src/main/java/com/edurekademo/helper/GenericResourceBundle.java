@@ -17,7 +17,7 @@ public class GenericResourceBundle {
 				value = rb.getString(key);
 			}
 		}
-			        System.out.println("=====This is Github repo polling end=====");
+			        
 
 		return value;
 	}
